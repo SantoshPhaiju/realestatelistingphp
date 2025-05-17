@@ -1,20 +1,9 @@
 
-<?php require_once 'includes/header.php'; ?>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Real State Listing Site</title>
-</head>
-<body>
+    <?php require_once 'includes/header.php'; ?>
     <h1>
         Welcome to the Real State Listing Site!
     </h1>
-</body>
-</html>
 
 
-<?php require_once 'includes/footer.php'; ?>
+
+    <?php require_once 'includes/footer.php'; ?>
