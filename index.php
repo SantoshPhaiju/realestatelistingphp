@@ -1,3 +1,7 @@
+
+<?php require_once 'includes/header.php'; ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,3 +15,6 @@
     </h1>
 </body>
 </html>
+
+
+<?php require_once 'includes/footer.php'; ?>
